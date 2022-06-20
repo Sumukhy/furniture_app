@@ -27,7 +27,7 @@ const List<FurnitureModel> furnitureList = [
       description:
           "Amazing stylish in multiple Most selling item of this year. We have easy returns product Options at our all stores in India.", //uality Lamp Wide range
       is_liked: false,
-      image: "sofa.png",
+      image: "chair.png",
       title: "Wodden Chair"),
 ];
 
